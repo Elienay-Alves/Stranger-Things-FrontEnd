@@ -90,6 +90,7 @@ class StrangerThings extends React.Component {
       () => this.searchCharacter(),
     );
   }
+  // Hahah - Nelson
 
   previousPage() {
     const { page } = this.state;
